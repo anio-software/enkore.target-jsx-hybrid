@@ -2,7 +2,7 @@
   "private": true,
   "type": "module",
   "name": "@anio-software/enkore.target-jsx-hybrid",
-  "version": "0.0.234",
+  "version": "0.0.241",
   "description": "",
   "author": "Anio Software <info@anio.software>",
   "repository": {
@@ -13,7 +13,7 @@
   "devDependencies": {
     "@anio-software/enkore": "^0.0.74",
     "@anio-software/enkore-private.spec": "=0.334.0",
-    "@anio-software/enkore-private.target-js-factory": "=0.0.234",
+    "@anio-software/enkore-private.target-js-factory": "=0.0.241",
     "@anio-software/enkore.core": "^0.11.2",
     "@anio-software/enkore.target-js": "^0.0.18-canary-13b51e9a-55a52c02"
   },
@@ -24,6 +24,7 @@
     "@types/react": ">=19.1.x",
     "@types/react-dom": ">=19.1.x",
     "react": ">=19.1.x",
-    "react-dom": ">=19.1.x"
+    "react-dom": ">=19.1.x",
+    "@anio-software/enkore.js-runtime": ">=0.0.3"
   }
 }
